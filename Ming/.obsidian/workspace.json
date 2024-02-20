@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "6fd6952dc092a169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e6da3c4a39f9e92a",
             "type": "leaf",
             "state": {
@@ -60,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEST.md",
+                "file": "IT/Server/Apache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEST.md",
+                "file": "IT/Server/Apache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEST.md"
+                "file": "IT/Server/Apache.md"
               }
             }
           }
@@ -187,11 +175,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6fd6952dc092a169",
+  "active": "cd69eb3fb1236abe",
   "lastOpenFiles": [
+    "TEST.md",
     "IT/Server/Apache.md",
-    "TEST.md",
-    "TEST.md",
     "사회,경제/사회.md",
     "사회,경제/공화주의.md",
     "IT/언어/스크립트 언어.md",
