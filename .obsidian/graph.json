@@ -11,20 +11,27 @@
       "query": "file:스크립트",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "file:사회",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.23473684210526,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.9114349567874676,
+  "scale": 2.3982835109877456,
   "close": true
 }
