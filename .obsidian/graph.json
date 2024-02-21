@@ -20,13 +20,6 @@
         "a": 1,
         "rgb": 16711680
       }
-    },
-    {
-      "query": "file:공화",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
     }
   ],
   "collapse-display": false,
@@ -40,5 +33,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1.4769860980686507,
-  "close": true
+  "close": false
 }
