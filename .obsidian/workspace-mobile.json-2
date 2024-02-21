@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "1c43fb26eeda8b0b",
+    "id": "1fedc0ccd16a3fc3",
     "type": "split",
     "children": [
       {
-        "id": "98f59a4e0fb0ea18",
+        "id": "1d4e234cc86f2a25",
         "type": "tabs",
         "children": [
           {
-            "id": "9a8b08947133742c",
+            "id": "3f39abd69443802e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -21,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cedbff7028ef3552",
+    "id": "05b849e1bb028dbf",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "aa010e231d50168e",
+        "id": "91347b72e35ebc6c",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +35,7 @@
         }
       },
       {
-        "id": "2ed2523e6555d7fc",
+        "id": "d8e931a35992e7f8",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +50,7 @@
         }
       },
       {
-        "id": "b4bc8bc5d26c2b86",
+        "id": "2c9a7bcfc53052c8",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "8735ea67b0644e4a",
+        "id": "eb57726554524f12",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -72,11 +72,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "5174978af3526b3d",
+    "id": "0aeba922d7b135e0",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "26b133d6b2cb1e93",
+        "id": "6f4c5ac6edf18811",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -92,7 +92,7 @@
         }
       },
       {
-        "id": "ea78dbdeff4680b2",
+        "id": "0771a4ffaf47d9e2",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -103,7 +103,7 @@
         }
       },
       {
-        "id": "366ca6c58984c7f6",
+        "id": "fdac852e2b4f2206",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -123,20 +123,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "aa010e231d50168e",
+  "active": "3f39abd69443802e",
   "lastOpenFiles": [
-    "desktop.ini",
-    "Ming/IT/언어/스크립트 언어.md",
+    "Ming/철학",
+    "Ming/철학",
+    "Ming/철학",
     "Ming/IT/언어/PHP.md",
-    "Ming/IT/Server/Tomcat.md",
-    "Ming/IT/Server/Apache.md",
-    "Ming/IT/언어",
-    "Ming/IT/Server",
+    "Ming/IT/언어/스크립트 언어.md",
     "Ming/사회,경제/사회.md",
+    "Ming/이민규.md",
+    "Ming/IT/언어",
     "Ming/사회,경제/민주주의.md",
     "Ming/사회,경제/공화주의.md",
-    "Ming/IT",
-    "Ming/사회,경제",
-    "Ming"
+    "Ming/사회,경제"
   ]
 }
