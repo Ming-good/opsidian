@@ -11,8 +11,12 @@
             "id": "3f39abd69443802e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ming/IT/언어/PHP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Ming/IT/언어/PHP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Ming/IT/언어/PHP.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Ming/IT/언어/PHP.md"
+          }
         }
       }
     ],
@@ -125,10 +133,10 @@
   },
   "active": "3f39abd69443802e",
   "lastOpenFiles": [
-    "Ming/사회,경제/사회.md",
-    "Ming/이민규.md",
     "Ming/IT/언어/스크립트 언어.md",
     "Ming/IT/언어/PHP.md",
+    "Ming/사회,경제/사회.md",
+    "Ming/이민규.md",
     "Ming/IT/언어",
     "Ming/사회,경제/민주주의.md",
     "Ming/사회,경제/공화주의.md",
