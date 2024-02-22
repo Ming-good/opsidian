@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/역사/지동설.md",
+                "file": "Ming/철학/철학.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ming/역사/지동설.md",
+            "file": "Ming/철학/철학.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ming/역사/지동설.md",
+            "file": "Ming/철학/철학.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ming/역사/지동설.md"
+            "file": "Ming/철학/철학.md"
           }
         }
       }
@@ -147,7 +147,7 @@
     "Ming/IT/언어/스크립트 언어.md",
     "Ming/역사",
     "Ming/IT/언어/PHP.md",
-    "Ming/철학/파일.md",
+    "Ming/철학/철학.md",
     "Ming/철학",
     "desktop.ini",
     "Ming/IT/Server/Tomcat.md",
