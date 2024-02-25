@@ -19,8 +19,12 @@
             "id": "30cc1bfa30de225c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ming/역사/지동설 발견자.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Ming/역사/지동설 발견자.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Ming/역사/지동설 발견자.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Ming/역사/지동설 발견자.md"
+          }
         }
       }
     ],
