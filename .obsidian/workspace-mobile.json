@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/사회,경제/사회 이념 및 사상.md",
+                "file": "Ming/사회,경제/민주주의.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ming/사회,경제/사회 이념 및 사상.md",
+            "file": "Ming/사회,경제/민주주의.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ming/사회,경제/사회 이념 및 사상.md",
+            "file": "Ming/사회,경제/민주주의.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ming/사회,경제/사회 이념 및 사상.md"
+            "file": "Ming/사회,경제/민주주의.md"
           }
         }
       }
@@ -142,8 +142,8 @@
   },
   "active": "30cc1bfa30de225c",
   "lastOpenFiles": [
-    "Ming/사회,경제/공화주의.md",
     "Ming/사회,경제/사회 이념 및 사상.md",
+    "Ming/사회,경제/공화주의.md",
     "Ming/역사/지동설 발견자.md",
     "Ming/철학/철학.md",
     "Ming/역사/지동설.md",
