@@ -27,12 +27,8 @@
             "id": "ad987d2e36857d75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ming/역사/강과 호수.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -102,7 +98,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ming/역사/강과 호수.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +114,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ming/역사/강과 호수.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,9 +124,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Ming/역사/강과 호수.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -148,7 +140,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "aa010e231d50168e",
+  "active": "ad987d2e36857d75",
   "lastOpenFiles": [
     "Ming/역사/강과 호수.md",
     "Ming/패션/옷의 종류.md",
