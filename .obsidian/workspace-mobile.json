@@ -19,8 +19,12 @@
             "id": "30cc1bfa30de225c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ming/패션/옷의 종류.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Ming/패션/옷의 종류.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Ming/패션/옷의 종류.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Ming/패션/옷의 종류.md"
+          }
         }
       }
     ],
@@ -134,6 +142,8 @@
   },
   "active": "30cc1bfa30de225c",
   "lastOpenFiles": [
+    "Ming/패션",
+    "Ming/패션/옷의 종류.md",
     "Ming/사회,경제/민주주의.md",
     "Ming/사회,경제/사회 이념 및 사상.md",
     "Ming/사회,경제/공화주의.md",
