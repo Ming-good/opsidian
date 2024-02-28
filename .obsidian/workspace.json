@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/언어/자바/자바의 역사.md",
+                "file": "Ming/IT/언어/자바/자바의 특징.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/IT/언어/자바/자바의 역사.md",
+                "file": "Ming/IT/언어/자바/자바의 특징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/IT/언어/자바/자바의 역사.md",
+                "file": "Ming/IT/언어/자바/자바의 특징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/IT/언어/자바/자바의 역사.md"
+                "file": "Ming/IT/언어/자바/자바의 특징.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "34a990497ac86413",
   "lastOpenFiles": [
-    "Ming/IT/언어/자바/자바의 특징.md",
     "Ming/IT/언어/자바/자바의 역사.md",
+    "Ming/IT/언어/자바/자바의 특징.md",
     "Ming/IT/언어/C/C언어.md",
     "Ming/IT/언어/컴파일 언어.md",
     "Ming/IT/언어/인터프리터 언어.md",
