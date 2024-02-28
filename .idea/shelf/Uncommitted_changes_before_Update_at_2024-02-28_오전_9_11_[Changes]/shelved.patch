@@ -1,0 +1,19 @@
+Index: .obsidian/graph.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n  \"collapse-filter\": true,\r\n  \"search\": \"\",\r\n  \"showTags\": false,\r\n  \"showAttachments\": false,\r\n  \"hideUnresolved\": false,\r\n  \"showOrphans\": true,\r\n  \"collapse-color-groups\": false,\r\n  \"colorGroups\": [\r\n    {\r\n      \"query\": \"file:스크립트\",\r\n      \"color\": {\r\n        \"a\": 1,\r\n        \"rgb\": 16711680\r\n      }\r\n    },\r\n    {\r\n      \"query\": \"file:사회\",\r\n      \"color\": {\r\n        \"a\": 1,\r\n        \"rgb\": 16711680\r\n      }\r\n    }\r\n  ],\r\n  \"collapse-display\": false,\r\n  \"showArrow\": false,\r\n  \"textFadeMultiplier\": 0,\r\n  \"nodeSizeMultiplier\": 1.23473684210526,\r\n  \"lineSizeMultiplier\": 1,\r\n  \"collapse-forces\": false,\r\n  \"centerStrength\": 0.518713248970312,\r\n  \"repelStrength\": 10,\r\n  \"linkStrength\": 1,\r\n  \"linkDistance\": 250,\r\n  \"scale\": 1.5720708926659361,\r\n  \"close\": true\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.obsidian/graph.json b/.obsidian/graph.json
+--- a/.obsidian/graph.json	(revision 3f740f10ca2feb80e37246e4ab169b398c394012)
++++ b/.obsidian/graph.json	(date 1709079043130)
+@@ -32,6 +32,6 @@
+   "repelStrength": 10,
+   "linkStrength": 1,
+   "linkDistance": 250,
+-  "scale": 1.5720708926659361,
++  "scale": 0.6754844207600407,
+   "close": true
+ }
+\ No newline at end of file

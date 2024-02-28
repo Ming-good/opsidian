@@ -1,0 +1,169 @@
+Index: .obsidian/workspace.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n  \"main\": {\r\n    \"id\": \"8b98fded7aaf7f3c\",\r\n    \"type\": \"split\",\r\n    \"children\": [\r\n      {\r\n        \"id\": \"2be8a323565b7471\",\r\n        \"type\": \"tabs\",\r\n        \"children\": [\r\n          {\r\n            \"id\": \"8893596e02df6cc4\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"markdown\",\r\n              \"state\": {\r\n                \"file\": \"Ming/역사/지동설 발견자.md\",\r\n                \"mode\": \"source\",\r\n                \"source\": false\r\n              }\r\n            }\r\n          }\r\n        ]\r\n      }\r\n    ],\r\n    \"direction\": \"vertical\"\r\n  },\r\n  \"left\": {\r\n    \"id\": \"a15f706e79e3c212\",\r\n    \"type\": \"split\",\r\n    \"children\": [\r\n      {\r\n        \"id\": \"823621004863ec28\",\r\n        \"type\": \"tabs\",\r\n        \"children\": [\r\n          {\r\n            \"id\": \"8e117530ab50149b\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"file-explorer\",\r\n              \"state\": {\r\n                \"sortOrder\": \"alphabetical\"\r\n              }\r\n            }\r\n          },\r\n          {\r\n            \"id\": \"1dd454800b6fe9a2\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"search\",\r\n              \"state\": {\r\n                \"query\": \"\",\r\n                \"matchingCase\": false,\r\n                \"explainSearch\": false,\r\n                \"collapseAll\": false,\r\n                \"extraContext\": false,\r\n                \"sortOrder\": \"alphabetical\"\r\n              }\r\n            }\r\n          },\r\n          {\r\n            \"id\": \"9473944ff5c6a5fc\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"bookmarks\",\r\n              \"state\": {}\r\n            }\r\n          }\r\n        ]\r\n      }\r\n    ],\r\n    \"direction\": \"horizontal\",\r\n    \"width\": 300\r\n  },\r\n  \"right\": {\r\n    \"id\": \"5e7564070ef75a7a\",\r\n    \"type\": \"split\",\r\n    \"children\": [\r\n      {\r\n        \"id\": \"c2dc46ad1bdebc18\",\r\n        \"type\": \"tabs\",\r\n        \"children\": [\r\n          {\r\n            \"id\": \"e2afc5400f981a2f\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"backlink\",\r\n              \"state\": {\r\n                \"file\": \"Ming/역사/지동설 발견자.md\",\r\n                \"collapseAll\": false,\r\n                \"extraContext\": false,\r\n                \"sortOrder\": \"alphabetical\",\r\n                \"showSearch\": false,\r\n                \"searchQuery\": \"\",\r\n                \"backlinkCollapsed\": false,\r\n                \"unlinkedCollapsed\": true\r\n              }\r\n            }\r\n          },\r\n          {\r\n            \"id\": \"2cca097a04b8a71d\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"outgoing-link\",\r\n              \"state\": {\r\n                \"file\": \"Ming/역사/지동설 발견자.md\",\r\n                \"linksCollapsed\": false,\r\n                \"unlinkedCollapsed\": true\r\n              }\r\n            }\r\n          },\r\n          {\r\n            \"id\": \"906a876fa68ebcce\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"tag\",\r\n              \"state\": {\r\n                \"sortOrder\": \"frequency\",\r\n                \"useHierarchy\": true\r\n              }\r\n            }\r\n          },\r\n          {\r\n            \"id\": \"a8a1b5838d7d305e\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"outline\",\r\n              \"state\": {\r\n                \"file\": \"Ming/역사/지동설 발견자.md\"\r\n              }\r\n            }\r\n          }\r\n        ]\r\n      }\r\n    ],\r\n    \"direction\": \"horizontal\",\r\n    \"width\": 300,\r\n    \"collapsed\": true\r\n  },\r\n  \"left-ribbon\": {\r\n    \"hiddenItems\": {\r\n      \"switcher:퀵 스위처 열기\": false,\r\n      \"graph:그래프 뷰 열기\": false,\r\n      \"canvas:새 캔버스 만들기\": false,\r\n      \"daily-notes:오늘의 데일리 노트 열기\": false,\r\n      \"templates:템플릿 삽입\": false,\r\n      \"command-palette:명령어 팔레트 열기\": false\r\n    }\r\n  },\r\n  \"active\": \"8893596e02df6cc4\",\r\n  \"lastOpenFiles\": [\r\n    \"Ming/철학/철학.md\",\r\n    \"Ming/이민규.md\",\r\n    \"Ming/사회,경제/공화주의.md\",\r\n    \"0Pa05032\",\r\n    \"desktop.ini\",\r\n    \"Ming/사회,경제/사회.md\",\r\n    \"Ming/사회,경제/민주주의.md\",\r\n    \"Ming/사회,경제\",\r\n    \"Ming/IT/언어/스크립트 언어.md\",\r\n    \"Ming/IT/언어/PHP.md\",\r\n    \"Ming/IT/언어\",\r\n    \"Ming/IT/Server/Tomcat.md\",\r\n    \"Ming/IT/Server/Apache.md\",\r\n    \"Ming/IT/Server\",\r\n    \"Ming/IT\",\r\n    \"Ming\",\r\n    \"opsidian-0bd506ca07ae53ab069a767a8dc81802cab6d317.zip\"\r\n  ]\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.obsidian/workspace.json b/.obsidian/workspace.json
+--- a/.obsidian/workspace.json	(revision 3f740f10ca2feb80e37246e4ab169b398c394012)
++++ b/.obsidian/workspace.json	(date 1709022222089)
+@@ -4,22 +4,31 @@
+     "type": "split",
+     "children": [
+       {
+-        "id": "2be8a323565b7471",
++        "id": "eb409fb02d89d040",
+         "type": "tabs",
+         "children": [
+           {
+-            "id": "8893596e02df6cc4",
++            "id": "34a990497ac86413",
++            "type": "leaf",
++            "state": {
++              "type": "graph",
++              "state": {}
++            }
++          },
++          {
++            "id": "f94e523bd36c9858",
+             "type": "leaf",
+             "state": {
+               "type": "markdown",
+               "state": {
+-                "file": "Ming/역사/지동설 발견자.md",
++                "file": "Ming/IT/자바/자바8.md",
+                 "mode": "source",
+                 "source": false
+               }
+             }
+           }
+-        ]
++        ],
++        "currentTab": 1
+       }
+     ],
+     "direction": "vertical"
+@@ -85,7 +94,7 @@
+             "state": {
+               "type": "backlink",
+               "state": {
+-                "file": "Ming/역사/지동설 발견자.md",
++                "file": "Ming/IT/자바/자바8.md",
+                 "collapseAll": false,
+                 "extraContext": false,
+                 "sortOrder": "alphabetical",
+@@ -102,7 +111,7 @@
+             "state": {
+               "type": "outgoing-link",
+               "state": {
+-                "file": "Ming/역사/지동설 발견자.md",
++                "file": "Ming/IT/자바/자바8.md",
+                 "linksCollapsed": false,
+                 "unlinkedCollapsed": true
+               }
+@@ -125,7 +134,7 @@
+             "state": {
+               "type": "outline",
+               "state": {
+-                "file": "Ming/역사/지동설 발견자.md"
++                "file": "Ming/IT/자바/자바8.md"
+               }
+             }
+           }
+@@ -146,18 +155,24 @@
+       "command-palette:명령어 팔레트 열기": false
+     }
+   },
+-  "active": "8893596e02df6cc4",
++  "active": "8e117530ab50149b",
+   "lastOpenFiles": [
++    "Ming/IT/인프라",
++    "Ming/IT/언어/스크립트 언어.md",
++    "Ming/IT/자바/자바8.md",
++    "Ming/IT/자바",
++    "Ming/IT/언어/PHP.md",
++    "Ming/사회,경제/공화주의.md",
++    "Ming/사회,경제/사회 이념 및 사상.md",
++    "2024-02-22.md",
++    "Ming/역사/지동설 발견자.md",
+     "Ming/철학/철학.md",
+     "Ming/이민규.md",
+-    "Ming/사회,경제/공화주의.md",
+     "0Pa05032",
+     "desktop.ini",
+     "Ming/사회,경제/사회.md",
+     "Ming/사회,경제/민주주의.md",
+     "Ming/사회,경제",
+-    "Ming/IT/언어/스크립트 언어.md",
+-    "Ming/IT/언어/PHP.md",
+     "Ming/IT/언어",
+     "Ming/IT/Server/Tomcat.md",
+     "Ming/IT/Server/Apache.md",
+Index: .obsidian/graph.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n  \"collapse-filter\": true,\r\n  \"search\": \"\",\r\n  \"showTags\": false,\r\n  \"showAttachments\": false,\r\n  \"hideUnresolved\": false,\r\n  \"showOrphans\": true,\r\n  \"collapse-color-groups\": false,\r\n  \"colorGroups\": [\r\n    {\r\n      \"query\": \"file:스크립트\",\r\n      \"color\": {\r\n        \"a\": 1,\r\n        \"rgb\": 16711680\r\n      }\r\n    },\r\n    {\r\n      \"query\": \"file:사회\",\r\n      \"color\": {\r\n        \"a\": 1,\r\n        \"rgb\": 16711680\r\n      }\r\n    }\r\n  ],\r\n  \"collapse-display\": false,\r\n  \"showArrow\": false,\r\n  \"textFadeMultiplier\": 0,\r\n  \"nodeSizeMultiplier\": 1.23473684210526,\r\n  \"lineSizeMultiplier\": 1,\r\n  \"collapse-forces\": false,\r\n  \"centerStrength\": 0.518713248970312,\r\n  \"repelStrength\": 10,\r\n  \"linkStrength\": 1,\r\n  \"linkDistance\": 250,\r\n  \"scale\": 1.5720708926659361,\r\n  \"close\": true\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.obsidian/graph.json b/.obsidian/graph.json
+--- a/.obsidian/graph.json	(revision 3f740f10ca2feb80e37246e4ab169b398c394012)
++++ b/.obsidian/graph.json	(date 1709017966467)
+@@ -32,6 +32,6 @@
+   "repelStrength": 10,
+   "linkStrength": 1,
+   "linkDistance": 250,
+-  "scale": 1.5720708926659361,
++  "scale": 0.6754844207600407,
+   "close": true
+ }
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1a2c5707-44fd-4652-bef8-cc4a306b9dab\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.obsidian/app.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.obsidian/app.json\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.obsidian/graph.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.obsidian/graph.json\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.obsidian/hotkeys.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.obsidian/hotkeys.json\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.obsidian/workspace.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.obsidian/workspace.json\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Ming/역사/지동설.md\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"RESET_MODE\" value=\"HARD\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"94d1233d-ed28-4d70-ac78-80de0e60b56a\" />\r\n        <option name=\"url\" value=\"https://github.com/Ming-good/opsidian.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2cfaP7nl8boQtCX2Gr0kF0qXHqG\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showExcludedFiles\" value=\"false\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/작업/obsidian&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1a2c5707-44fd-4652-bef8-cc4a306b9dab\" name=\"Changes\" comment=\"\" />\r\n      <created>1708505060147</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1708505060147</updated>\r\n      <workItem from=\"1708505061336\" duration=\"1352000\" />\r\n      <workItem from=\"1708566057461\" duration=\"72000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.History.Properties\">\r\n    <option name=\"COLUMN_ID_ORDER\">\r\n      <list>\r\n        <option value=\"Default.Root\" />\r\n        <option value=\"Default.Author\" />\r\n        <option value=\"Default.Date\" />\r\n        <option value=\"Default.Subject\" />\r\n        <option value=\"Space.CommitStatus\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3f740f10ca2feb80e37246e4ab169b398c394012)
++++ b/.idea/workspace.xml	(date 1708566757264)
+@@ -5,11 +5,10 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="1a2c5707-44fd-4652-bef8-cc4a306b9dab" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/graph.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.obsidian/hotkeys.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/hotkeys.json" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Ming/역사/지동설.md" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Ming/IT/언어/PHP.md" beforeDir="false" afterPath="$PROJECT_DIR$/Ming/IT/언어/PHP.md" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Ming/IT/언어/스크립트 언어.md" beforeDir="false" afterPath="$PROJECT_DIR$/Ming/IT/언어/스크립트 언어.md" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -20,11 +19,11 @@
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="RESET_MODE" value="HARD" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="GithubPullRequestsUISettings">
+     <option name="selectedUrlAndAccountId">
+       <UrlAndAccount>
+@@ -66,6 +65,7 @@
+       <updated>1708505060147</updated>
+       <workItem from="1708505061336" duration="1352000" />
+       <workItem from="1708566057461" duration="72000" />
++      <workItem from="1708566136112" duration="616000" />
+     </task>
+     <servers />
+   </component>
