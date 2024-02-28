@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/언어/C/C언어.md",
+                "file": "Ming/IT/언어/자바/자바의 역사.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/IT/언어/C/C언어.md",
+                "file": "Ming/IT/언어/자바/자바의 역사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/IT/언어/C/C언어.md",
+                "file": "Ming/IT/언어/자바/자바의 역사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/IT/언어/C/C언어.md"
+                "file": "Ming/IT/언어/자바/자바의 역사.md"
               }
             }
           }
@@ -148,12 +148,18 @@
   },
   "active": "34a990497ac86413",
   "lastOpenFiles": [
-    "Ming/IT/언어/자바/자바8.md",
+    "Ming/IT/언어/자바/자바의 특징.md",
     "Ming/IT/언어/자바/자바의 역사.md",
     "Ming/IT/언어/C/C언어.md",
+    "Ming/IT/언어/컴파일 언어.md",
+    "Ming/IT/언어/인터프리터 언어.md",
+    "Ming/IT/언어/스크립트 언어.md",
+    "Pasted image 20240228180655.png",
+    "인터프리터.md",
+    "Ming/IT/언어/무제 폴더",
+    "Ming/IT/언어/자바/자바8.md",
     "C.md",
     "C++.md",
-    "Ming/IT/언어/스크립트 언어.md",
     "Ming/IT/언어/PHP.md",
     "Ming/IT/Server/Apache.md",
     "Ming/IT/Server/Tomcat.md",
@@ -175,7 +181,6 @@
     "desktop.ini",
     "Ming/사회,경제/사회.md",
     "Ming/사회,경제",
-    "Ming/IT/언어",
-    "Ming/IT/Server"
+    "Ming/IT/언어"
   ]
 }
