@@ -11,11 +11,9 @@
             "id": "8893596e02df6cc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Ming/식물/나무/버즘나무(Platanus orientalis).md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240310112447.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/식물/나무/버즘나무(Platanus orientalis).md",
+                "file": "Pasted image 20240310112447.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/식물/나무/버즘나무(Platanus orientalis).md",
+                "file": "Pasted image 20240310112447.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/식물/나무/버즘나무(Platanus orientalis).md"
+                "file": "Pasted image 20240310112447.jpg"
               }
             }
           }
@@ -148,16 +146,16 @@
   },
   "active": "8893596e02df6cc4",
   "lastOpenFiles": [
-    "Pasted image 20240310112447.jpg",
-    "Pasted image 20240310112418.png",
-    "Pasted image 20240310112405.jpg",
-    "Ming/IT/언어/자바/자바의 특징.md",
+    "Pasted image 20240228180655.png",
     "Ming/식물/나무/버즘나무(Platanus orientalis).md",
+    "Pasted image 20240310112447.jpg",
+    "Pasted image 20240310112405.jpg",
+    "Pasted image 20240310112418.png",
+    "Ming/IT/언어/자바/자바의 특징.md",
     "Ming/식물/나무",
     "Ming/식물",
     "Ming/IT/언어/자바/자바의 컴파일.md",
     "Ming/IT/언어/자바/자바의 역사.md",
-    "Pasted image 20240228180655.png",
     "Ming/IT/언어/자바/자바8.md",
     "Ming/역사/강과 호수.md",
     "Ming/IT/언어/컴파일 언어.md",
