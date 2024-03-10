@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb409fb02d89d040",
+        "id": "2be8a323565b7471",
         "type": "tabs",
         "children": [
           {
-            "id": "34a990497ac86413",
+            "id": "8893596e02df6cc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/언어/자바/자바의 컴파일.md",
+                "file": "Ming/식물/나무/버즘나무(Platanus orientalis).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/IT/언어/자바/자바의 컴파일.md",
+                "file": "Ming/식물/나무/버즘나무(Platanus orientalis).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/IT/언어/자바/자바의 컴파일.md",
+                "file": "Ming/식물/나무/버즘나무(Platanus orientalis).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/IT/언어/자바/자바의 컴파일.md"
+                "file": "Ming/식물/나무/버즘나무(Platanus orientalis).md"
               }
             }
           }
@@ -146,42 +146,41 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "34a990497ac86413",
+  "active": "8893596e02df6cc4",
   "lastOpenFiles": [
+    "Pasted image 20240310112447.jpg",
+    "Pasted image 20240310112418.png",
+    "Pasted image 20240310112405.jpg",
     "Ming/IT/언어/자바/자바의 특징.md",
+    "Ming/식물/나무/버즘나무(Platanus orientalis).md",
+    "Ming/식물/나무",
+    "Ming/식물",
     "Ming/IT/언어/자바/자바의 컴파일.md",
     "Ming/IT/언어/자바/자바의 역사.md",
-    "Ming/IT/언어/자바/자바8.md",
-    "Ming/IT/언어/인터프리터 언어.md",
-    "Ming/IT/언어/PHP.md",
-    "Ming/IT/언어/C/C언어.md",
-    "Ming/IT/언어/컴파일 언어.md",
-    "Ming/IT/언어/스크립트 언어.md",
     "Pasted image 20240228180655.png",
-    "인터프리터.md",
-    "Ming/IT/언어/무제 폴더",
-    "C.md",
-    "C++.md",
-    "Ming/IT/Server/Apache.md",
-    "Ming/IT/Server/Tomcat.md",
-    "Ming/사회,경제/공화주의.md",
-    "Ming/사회,경제/사회 이념 및 사상.md",
-    "Ming/사회,경제/민주주의.md",
-    "Ming/IT/언어/C++",
-    "Ming/IT/언어/C",
-    "Ming/패션/옷의 종류.md",
-    "Ming/패션",
+    "Ming/IT/언어/자바/자바8.md",
     "Ming/역사/강과 호수.md",
-    "Ming/IT/인프라",
+    "Ming/IT/언어/컴파일 언어.md",
     "Ming/IT/언어/자바",
-    "2024-02-22.md",
+    "Ming/IT/언어/인터프리터 언어.md",
+    "Ming/IT/언어/C/C언어.md",
+    "Ming/IT/언어/C",
     "Ming/역사/지동설 발견자.md",
     "Ming/철학/철학.md",
+    "Ming/패션/옷의 종류.md",
+    "Ming/사회,경제/공화주의.md",
+    "Ming/패션",
     "Ming/이민규.md",
     "0Pa05032",
     "desktop.ini",
     "Ming/사회,경제/사회.md",
+    "Ming/사회,경제/민주주의.md",
     "Ming/사회,경제",
-    "Ming/IT/언어"
+    "Ming/IT/언어/스크립트 언어.md",
+    "Ming/IT/언어/PHP.md",
+    "Ming/IT/언어",
+    "Ming/IT/Server/Tomcat.md",
+    "Ming/IT/Server/Apache.md",
+    "Ming/IT/Server"
   ]
 }
