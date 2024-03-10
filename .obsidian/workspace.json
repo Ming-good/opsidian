@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/음악/피아노.md",
+                "file": "Ming/음악/클로드 드뷔시.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/음악/피아노.md",
+                "file": "Ming/음악/클로드 드뷔시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/음악/피아노.md",
+                "file": "Ming/음악/클로드 드뷔시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/음악/피아노.md"
+                "file": "Ming/음악/클로드 드뷔시.md"
               }
             }
           }
@@ -148,30 +148,34 @@
   },
   "active": "8893596e02df6cc4",
   "lastOpenFiles": [
-    "Ming/음악/인상주의 작곡.md",
     "Ming/음악/피아노.md",
     "Ming/음악/클로드 드뷔시.md",
+    "Ming/음악/인상주의 작곡.md",
+    "드뷔시.md",
+    "Ming/IT/언어/C/C언어.md",
+    "Ming/IT/언어/스크립트 언어.md",
+    "Ming/IT/언어/자바/자바8.md",
+    "Ming/IT/언어/자바/자바의 특징.md",
+    "Ming/IT/언어/자바/자바의 컴파일.md",
+    "Ming/IT/언어/자바/자바의 역사.md",
+    "Ming/역사/지동설 발견자.md",
+    "Ming/식물/나무/버즘나무(Platanus orientalis).md",
+    "Ming/사회,경제/사회 이념 및 사상.md",
+    "Ming/역사/강과 호수.md",
+    "Ming/사회,경제/민주주의.md",
     "Ming/음악/무제 폴더",
     "Pasted image 20240310112447.jpg",
     "Ming/음악/클로드 드뷔시",
     "Ming/음악",
     "Pasted image 20240228180655.png",
-    "Ming/식물/나무/버즘나무(Platanus orientalis).md",
     "Pasted image 20240310112405.jpg",
     "Pasted image 20240310112418.png",
-    "Ming/IT/언어/자바/자바의 특징.md",
     "Ming/식물/나무",
     "Ming/식물",
-    "Ming/IT/언어/자바/자바의 컴파일.md",
-    "Ming/IT/언어/자바/자바의 역사.md",
-    "Ming/IT/언어/자바/자바8.md",
-    "Ming/역사/강과 호수.md",
     "Ming/IT/언어/컴파일 언어.md",
     "Ming/IT/언어/자바",
     "Ming/IT/언어/인터프리터 언어.md",
-    "Ming/IT/언어/C/C언어.md",
     "Ming/IT/언어/C",
-    "Ming/역사/지동설 발견자.md",
     "Ming/철학/철학.md",
     "Ming/패션/옷의 종류.md",
     "Ming/사회,경제/공화주의.md",
@@ -180,8 +184,6 @@
     "0Pa05032",
     "desktop.ini",
     "Ming/사회,경제/사회.md",
-    "Ming/사회,경제/민주주의.md",
-    "Ming/IT/언어/스크립트 언어.md",
     "Ming/IT/언어/PHP.md",
     "Ming/IT/Server/Tomcat.md",
     "Ming/IT/Server/Apache.md"
