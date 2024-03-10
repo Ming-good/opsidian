@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/음악/클로드 드뷔시.md",
+                "file": "Ming/음악/인상주의 작곡.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/음악/클로드 드뷔시.md",
+                "file": "Ming/음악/인상주의 작곡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/음악/클로드 드뷔시.md",
+                "file": "Ming/음악/인상주의 작곡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/음악/클로드 드뷔시.md"
+                "file": "Ming/음악/인상주의 작곡.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "8893596e02df6cc4",
   "lastOpenFiles": [
-    "Ming/음악/피아노.md",
     "Ming/음악/클로드 드뷔시.md",
+    "Ming/음악/피아노.md",
     "Ming/음악/인상주의 작곡.md",
     "드뷔시.md",
     "Ming/IT/언어/C/C언어.md",
