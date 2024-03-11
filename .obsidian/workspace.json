@@ -11,8 +11,12 @@
             "id": "34a990497ac86413",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md"
+              }
             }
           }
         ]
@@ -140,10 +148,10 @@
   },
   "active": "34a990497ac86413",
   "lastOpenFiles": [
+    "Ming/IT/언어/자바/JVM/자바 실행 과정.md",
     "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
     "Ming/IT/언어/자바/JVM/Loading.md",
     "Pasted image 20240311172948.png",
-    "Ming/IT/언어/자바/JVM/자바 실행 과정.md",
     "자바.md",
     "().md",
     "Pasted image 20240311171247.png",
