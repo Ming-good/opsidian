@@ -1,7 +1,7 @@
 ![[Pasted image 20240311170831.png]]
 
 
-#### Class Loader
+#### #ClassLoader 
 JVM 아키텍처의 첫 번째 주요 구성요소로써 Loading -> Linking -> initialization 단계를 거침.
 클래스 로더는 .java에서 컴파일된 .class 파일을 메모리의 Method Area에 로드하는 역할을 수행
 #### 1.[[Loading]]
@@ -15,3 +15,14 @@ JVM 아키텍처의 첫 번째 주요 구성요소로써 Loading -> Linking -> i
 	이 과정은 클래스가 사용될 때 까지 연기될 수 있으며, '늦은 바인딩' 또는 '동적 바인딩'라고도 불림. 해석 과정은 JVM의 효율성과 유연성을 높이는데 기여함.
 	-  심볼릭 참조란 클래스 파일 내에서 다른 클래스, 인터페이스, 필드, 메서드에 대한 참조를 이름과 같은 식별 정보로 저장하는 방식을 말함. 이러한 참조는 컴파일 시간에 결정되며, 실제 메모리 주소나 위체이 독립적임.
 #### 3.Initializtion
+클래스 로딩 마지막 단계로써 준비 단계에서 확보한 메모리 영역의 모든 정적 변수에 자바 코드에 명시된 값이 할당됨.
+
+
+#### Runtime Data Area
+JVM에 .class 파일을 저장하고 실행하기 위한 메모리 영역
+(.class 파일은 클래스 로더에 의해 JVM내 로드되고 실행엔진에 의해 기계어로 해석되어 Runtime Data Area에 배치됨.)
+![[Pasted image 20240313105901.png]]
+
+1. JVM은 OS에서 할당받은 메모리 영역을 세 영역으로 구분함
+2. [[힙]], [[메서드 영역]]을 모든 스레드가 공유해서 사용함
+3. PC register, stack, native method stack은 [[Thread]]마다 하나씩 생성됨.

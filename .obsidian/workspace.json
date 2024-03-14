@@ -11,12 +11,8 @@
             "id": "34a990497ac86413",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ClassLoader",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,11 +140,20 @@
   },
   "active": "34a990497ac86413",
   "lastOpenFiles": [
-    "Ming/IT/언어/자바/JVM/해석.md",
-    "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
-    "Ming/IT/언어/자바/JVM/Loading.md",
-    "Ming/IT/언어/자바/자바의 특징.md",
     "Ming/IT/언어/자바/JVM/자바 실행 과정.md",
+    "Ming/IT/언어/자바/JVM/Thread.md",
+    "Ming/IT/언어/자바/JVM/네이티브 메서드(Native Method).md",
+    "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
+    "Ming/IT/언어/자바/JVM/해석.md",
+    "Ming/IT/언어/자바/JVM/힙.md",
+    "Ming/IT/언어/자바/JVM/Loading.md",
+    "Ming/IT/언어/자바/JVM/메서드 영역.md",
+    "Ming/IT/언어/자바/자바8.md",
+    "Pasted image 20240314110047.png",
+    "무제 파일.canvas",
+    "Ming/IT/언어/자바/JVM/무제 폴더",
+    "Pasted image 20240313105901.png",
+    "Ming/IT/언어/자바/자바의 특징.md",
     "Pasted image 20240311172948.png",
     "자바.md",
     "().md",
@@ -160,7 +161,6 @@
     "Pasted image 20240311170831.png",
     "Ming/IT/언어/자바/자바의 컴파일.md",
     "Ming/IT/언어/자바/자바의 역사.md",
-    "Ming/IT/언어/자바/자바8.md",
     "Pasted image 20240311170428.png",
     "Ming/IT/언어/자바/JVM",
     "Pasted image 20240310112447.jpg",
@@ -181,14 +181,9 @@
     "C.md",
     "C++.md",
     "Ming/IT/Server/Apache.md",
-    "Ming/IT/Server/Tomcat.md",
-    "Ming/사회,경제/공화주의.md",
-    "Ming/사회,경제/사회 이념 및 사상.md",
-    "Ming/사회,경제/민주주의.md",
     "Ming/IT/언어/C++",
     "Ming/IT/언어/C",
     "Ming/패션",
-    "Ming/IT/인프라",
-    "Ming/IT/언어/자바"
+    "Ming/IT/인프라"
   ]
 }
