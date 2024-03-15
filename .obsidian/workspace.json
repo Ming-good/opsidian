@@ -11,8 +11,12 @@
             "id": "34a990497ac86413",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ming/IT/언어/자바/JVM/Execution Engin.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ming/IT/언어/자바/JVM/Execution Engin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ming/IT/언어/자바/JVM/Execution Engin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ming/IT/언어/자바/JVM/Execution Engin.md"
+              }
             }
           }
         ]
@@ -140,16 +148,22 @@
   },
   "active": "34a990497ac86413",
   "lastOpenFiles": [
-    "Ming/IT/언어/자바/JVM/자바 실행 과정.md",
-    "Ming/IT/언어/자바/JVM/Thread.md",
-    "Ming/IT/언어/자바/JVM/네이티브 메서드(Native Method).md",
-    "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
+    "Pasted image 20240314150116.png",
+    "Ming/IT/언어/자바/JVM/Execution Engin.md",
     "Ming/IT/언어/자바/JVM/해석.md",
-    "Ming/IT/언어/자바/JVM/힙.md",
-    "Ming/IT/언어/자바/JVM/Loading.md",
+    "Ming/IT/언어/인터프리터 언어.md",
+    "Ming/IT/언어/자바/자바의 컴파일.md",
     "Ming/IT/언어/자바/JVM/메서드 영역.md",
-    "Ming/IT/언어/자바/자바8.md",
+    "Ming/IT/언어/자바/JVM/자바 실행 과정.md",
+    "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
+    "Ming/IT/언어/자바/JVM/Thread.md",
+    "Pasted image 20240314133634.png",
+    "Pasted image 20240314133558.png",
     "Pasted image 20240314110047.png",
+    "Ming/IT/언어/자바/JVM/힙.md",
+    "Ming/IT/언어/자바/JVM/네이티브 메서드(Native Method).md",
+    "Ming/IT/언어/자바/JVM/Loading.md",
+    "Ming/IT/언어/자바/자바8.md",
     "무제 파일.canvas",
     "Ming/IT/언어/자바/JVM/무제 폴더",
     "Pasted image 20240313105901.png",
@@ -159,7 +173,6 @@
     "().md",
     "Pasted image 20240311171247.png",
     "Pasted image 20240311170831.png",
-    "Ming/IT/언어/자바/자바의 컴파일.md",
     "Ming/IT/언어/자바/자바의 역사.md",
     "Pasted image 20240311170428.png",
     "Ming/IT/언어/자바/JVM",
@@ -170,17 +183,13 @@
     "Ming/식물/나무/버즘나무(Platanus orientalis).md",
     "Ming/식물/나무",
     "Ming/식물",
-    "Ming/IT/언어/인터프리터 언어.md",
     "Ming/IT/언어/PHP.md",
     "Ming/IT/언어/C/C언어.md",
     "Ming/IT/언어/컴파일 언어.md",
     "Ming/IT/언어/스크립트 언어.md",
-    "Pasted image 20240228180655.png",
     "인터프리터.md",
     "Ming/IT/언어/무제 폴더",
     "C.md",
-    "C++.md",
-    "Ming/IT/Server/Apache.md",
     "Ming/IT/언어/C++",
     "Ming/IT/언어/C",
     "Ming/패션",
