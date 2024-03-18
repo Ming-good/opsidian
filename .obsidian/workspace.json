@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/언어/자바/JVM/Execution Engin.md",
+                "file": "Ming/IT/언어/자바/JVM/JIT 컴파일러.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/IT/언어/자바/JVM/Execution Engin.md",
+                "file": "Ming/IT/언어/자바/JVM/JIT 컴파일러.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/IT/언어/자바/JVM/Execution Engin.md",
+                "file": "Ming/IT/언어/자바/JVM/JIT 컴파일러.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/IT/언어/자바/JVM/Execution Engin.md"
+                "file": "Ming/IT/언어/자바/JVM/JIT 컴파일러.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "34a990497ac86413",
   "lastOpenFiles": [
-    "Pasted image 20240314150116.png",
     "Ming/IT/언어/자바/JVM/Execution Engin.md",
+    "Ming/IT/언어/자바/JVM/JIT 컴파일러.md",
+    "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
+    "Pasted image 20240314150116.png",
     "Ming/IT/언어/자바/JVM/해석.md",
     "Ming/IT/언어/인터프리터 언어.md",
     "Ming/IT/언어/자바/자바의 컴파일.md",
     "Ming/IT/언어/자바/JVM/메서드 영역.md",
     "Ming/IT/언어/자바/JVM/자바 실행 과정.md",
-    "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
     "Ming/IT/언어/자바/JVM/Thread.md",
     "Pasted image 20240314133634.png",
     "Pasted image 20240314133558.png",
