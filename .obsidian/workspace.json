@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "여행지 추천AI 개발/정보 분석 및 설계서.md",
+                "file": "Ming/독서/사피엔스.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "여행지 추천AI 개발/정보 분석 및 설계서.md",
+                "file": "Ming/독서/사피엔스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "여행지 추천AI 개발/정보 분석 및 설계서.md",
+                "file": "Ming/독서/사피엔스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "여행지 추천AI 개발/정보 분석 및 설계서.md"
+                "file": "Ming/독서/사피엔스.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "cfeffda795c9f69d",
   "lastOpenFiles": [
-    "여행지 추천AI 개발/개발 기획서.md",
+    "Ming/독서",
     "여행지 추천AI 개발/정보 분석 및 설계서.md",
+    "Ming/독서/사피엔스.md",
+    "여행지 추천AI 개발/개발 기획서.md",
     "Ming/IT/언어/자바/JVM/JIT 컴파일러.md",
     "Ming/IT/언어/자바/JVM/Execution Engin.md",
     "Ming/IT/언어/자바/JVM/힙.md",
@@ -190,8 +192,6 @@
     "Ming/식물/나무/버즘나무(Platanus orientalis).md",
     "Ming/식물/나무",
     "Ming/식물",
-    "Ming/IT/언어/PHP.md",
-    "Ming/IT/언어/C/C언어.md",
     "Ming/IT/언어/무제 폴더",
     "Ming/IT/언어/C++",
     "Ming/IT/언어/C"
