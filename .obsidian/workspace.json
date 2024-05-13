@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/독서/사피엔스.md",
+                "file": "Ming/IT/DB/OLTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ClassLoader",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/독서/사피엔스.md",
+                "file": "Ming/IT/DB/OLTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/독서/사피엔스.md",
+                "file": "Ming/IT/DB/OLTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/독서/사피엔스.md"
+                "file": "Ming/IT/DB/OLTP.md"
               }
             }
           }
@@ -148,13 +148,28 @@
   },
   "active": "cfeffda795c9f69d",
   "lastOpenFiles": [
-    "Ming/독서",
-    "여행지 추천AI 개발/정보 분석 및 설계서.md",
-    "Ming/독서/사피엔스.md",
-    "여행지 추천AI 개발/개발 기획서.md",
-    "Ming/IT/언어/자바/JVM/JIT 컴파일러.md",
+    "Ming/IT/DB/OLTP.md",
+    "Ming/IT/DB",
+    "Ming/IT/AI/LLM",
+    "Ming/IT/AI",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
+    "Ming/IT/에자일/방법론/RICE 방법론.md",
+    "Ming/IT/에자일/방법론/MoSCow 방법론.md",
     "Ming/IT/언어/자바/JVM/Execution Engin.md",
+    "Ming/IT/언어/자바/JVM/JIT 컴파일러.md",
+    "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
+    "Ming/IT/언어/자바/JVM/해석.md",
     "Ming/IT/언어/자바/JVM/힙.md",
+    "Ming/IT/언어/자바/JVM/네이티브 메서드(Native Method).md",
+    "Ming/IT/Server/Apache.md",
+    "Ming/IT/Server/Tomcat.md",
+    "여행지 추천AI 개발/정보 분석 및 설계서.md",
+    "Ming/IT/에자일/방법론",
+    "Ming/IT/에자일",
+    "Ming/독서/사피엔스.md",
+    "Ming/독서",
+    "여행지 추천AI 개발/개발 기획서.md",
     "Ming/IT/언어/자바/JVM/자바 실행 과정.md",
     "Ming/IT/언어/자바/자바의 역사.md",
     "Ming/IT/언어/자바/자바의 특징.md",
@@ -167,9 +182,7 @@
     "Pasted image 20240326223046.png",
     "Ming/패션/체크 무늬.md",
     "Ming/음악/인상주의 작곡가.md",
-    "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
     "Pasted image 20240314150116.png",
-    "Ming/IT/언어/자바/JVM/해석.md",
     "Ming/IT/언어/인터프리터 언어.md",
     "Ming/IT/언어/자바/자바의 컴파일.md",
     "Ming/IT/언어/자바/JVM/메서드 영역.md",
@@ -177,23 +190,11 @@
     "Pasted image 20240314133634.png",
     "Pasted image 20240314133558.png",
     "Pasted image 20240314110047.png",
-    "Ming/IT/언어/자바/JVM/네이티브 메서드(Native Method).md",
     "Ming/IT/언어/자바/JVM/Loading.md",
     "Ming/IT/언어/자바/자바8.md",
-    "무제 파일.canvas",
     "Ming/IT/언어/자바/JVM/무제 폴더",
     "Pasted image 20240313105901.png",
     "자바.md",
-    "().md",
-    "Ming/IT/언어/자바/JVM",
-    "Ming/음악/클로드 드뷔시.md",
-    "Ming/음악/인상주의 작곡.md",
-    "Ming/음악",
-    "Ming/식물/나무/버즘나무(Platanus orientalis).md",
-    "Ming/식물/나무",
-    "Ming/식물",
-    "Ming/IT/언어/무제 폴더",
-    "Ming/IT/언어/C++",
-    "Ming/IT/언어/C"
+    "Ming/IT/언어/자바/JVM"
   ]
 }
