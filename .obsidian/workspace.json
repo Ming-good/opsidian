@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/DB/OLTP.md",
+                "file": "Ming/IT/DB/OLTP vs. OLAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/IT/DB/OLTP.md",
+                "file": "Ming/IT/DB/OLTP vs. OLAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/IT/DB/OLTP.md",
+                "file": "Ming/IT/DB/OLTP vs. OLAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/IT/DB/OLTP.md"
+                "file": "Ming/IT/DB/OLTP vs. OLAP.md"
               }
             }
           }
@@ -148,7 +148,7 @@
   },
   "active": "cfeffda795c9f69d",
   "lastOpenFiles": [
-    "Ming/IT/DB/OLTP.md",
+    "Ming/IT/DB/OLTP vs. OLAP.md",
     "Ming/IT/DB",
     "Ming/IT/AI/LLM",
     "Ming/IT/AI",
