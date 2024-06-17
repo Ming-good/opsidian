@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/DB/OLTP vs. OLAP.md",
+                "file": "Ming/IT/DB/RDB를 사용하는 이유.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/IT/DB/OLTP vs. OLAP.md",
+                "file": "Ming/IT/DB/RDB를 사용하는 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/IT/DB/OLTP vs. OLAP.md",
+                "file": "Ming/IT/DB/RDB를 사용하는 이유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/IT/DB/OLTP vs. OLAP.md"
+                "file": "Ming/IT/DB/RDB를 사용하는 이유.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "cfeffda795c9f69d",
   "lastOpenFiles": [
     "Ming/IT/DB/OLTP vs. OLAP.md",
+    "Ming/IT/DB/RDB를 사용하는 이유.md",
     "Ming/IT/DB",
     "Ming/IT/AI/LLM",
     "Ming/IT/AI",
@@ -194,7 +195,6 @@
     "Ming/IT/언어/자바/자바8.md",
     "Ming/IT/언어/자바/JVM/무제 폴더",
     "Pasted image 20240313105901.png",
-    "자바.md",
     "Ming/IT/언어/자바/JVM"
   ]
 }
