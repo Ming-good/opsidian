@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1b232a2f922b98a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "608c6c4252ee4e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ming/IT/인프라/서버 모니터링 순서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md",
+                "file": "Ming/IT/인프라/서버 모니터링 순서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md",
+                "file": "Ming/IT/인프라/서버 모니터링 순서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md"
+                "file": "Ming/IT/인프라/서버 모니터링 순서.md"
               }
             }
           }
@@ -146,8 +169,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cfeffda795c9f69d",
+  "active": "608c6c4252ee4e92",
   "lastOpenFiles": [
+    "Pasted image 20240725110034.png",
+    "Ming/패션/체크 무늬.md",
+    "Ming/IT/인프라/서버 모니터링 순서.md",
     "Ming/IT/DB/RDB를 사용하는 이유.md",
     "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md",
     "Ming/IT/네트워크",
@@ -184,13 +210,10 @@
     "Pasted image 20240326223156.png",
     "Pasted image 20240326223103.png",
     "Pasted image 20240326223046.png",
-    "Ming/패션/체크 무늬.md",
     "Ming/음악/인상주의 작곡가.md",
     "Pasted image 20240314150116.png",
     "Ming/IT/언어/인터프리터 언어.md",
     "Ming/IT/언어/자바/자바의 컴파일.md",
-    "Ming/IT/언어/자바/JVM/메서드 영역.md",
-    "Ming/IT/언어/자바/JVM/Thread.md",
     "Pasted image 20240314133634.png",
     "Pasted image 20240314133558.png",
     "Pasted image 20240314110047.png",
