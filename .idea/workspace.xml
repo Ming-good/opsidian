@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a2c5707-44fd-4652-bef8-cc4a306b9dab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/graph.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ming/IT/언어/자바/JVM/JIT 컴파일러.md" beforeDir="false" afterPath="$PROJECT_DIR$/Ming/IT/언어/자바/JVM/JIT 컴파일러.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/여행지 추천AI 개발/개발 기획서.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ming/IT/인프라/서버 모니터링 순서.md" beforeDir="false" afterPath="$PROJECT_DIR$/Ming/IT/인프라/서버 모니터링 순서.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +69,7 @@
       <workItem from="1708566136112" duration="616000" />
       <workItem from="1709079026527" duration="78000" />
       <workItem from="1712279259651" duration="616000" />
+      <workItem from="1723075873848" duration="50000" />
     </task>
     <servers />
   </component>
