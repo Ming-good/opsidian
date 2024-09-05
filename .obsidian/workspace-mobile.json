@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "1c43fb26eeda8b0b",
+    "id": "28205295abd7438c",
     "type": "split",
     "children": [
       {
-        "id": "98f59a4e0fb0ea18",
+        "id": "aa6ee7f60b57ef70",
         "type": "tabs",
         "children": [
           {
-            "id": "9a8b08947133742c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "30cc1bfa30de225c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ad987d2e36857d75",
+            "id": "72ed9f9a01b3b367",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/언어/자바/자바의 특징.md",
+                "file": "Ming/과학/상대성 이론.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cedbff7028ef3552",
+    "id": "c2f15b00903ab9c4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "aa010e231d50168e",
+        "id": "c1c047dc14384f23",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -56,7 +39,7 @@
         }
       },
       {
-        "id": "2ed2523e6555d7fc",
+        "id": "fb520fcd5beb6a31",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -71,7 +54,7 @@
         }
       },
       {
-        "id": "b4bc8bc5d26c2b86",
+        "id": "241746e1e845fabd",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -82,7 +65,7 @@
         }
       },
       {
-        "id": "8735ea67b0644e4a",
+        "id": "d7d6e39247d5fd34",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -93,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "5174978af3526b3d",
+    "id": "3a42be03d8c4bccb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "26b133d6b2cb1e93",
+        "id": "9cac724bd3e54b37",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ming/IT/언어/자바/자바의 특징.md",
+            "file": "Ming/과학/상대성 이론.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,24 +97,24 @@
         }
       },
       {
-        "id": "ea78dbdeff4680b2",
+        "id": "0c8f5a62c39aed33",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ming/IT/언어/자바/자바의 특징.md",
+            "file": "Ming/과학/상대성 이론.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "366ca6c58984c7f6",
+        "id": "d4793aa8f9777552",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ming/IT/언어/자바/자바의 특징.md"
+            "file": "Ming/과학/상대성 이론.md"
           }
         }
       }
@@ -148,36 +131,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ad987d2e36857d75",
+  "active": "72ed9f9a01b3b367",
   "lastOpenFiles": [
-    "Ming/IT/언어/컴파일 언어.md",
-    "Ming/IT/언어/인터프리터 언어.md",
-    "Pasted image 20240228180655.png",
-    "Ming/IT/언어/자바/자바의 특징.md",
-    "Ming/IT/언어/자바/자바의 역사.md",
-    "Ming/IT/언어/C/C언어.md",
-    "Ming/IT/언어/자바/자바8.md",
-    "Ming/IT/언어/자바",
-    "Ming/IT/언어/C",
-    "Ming/역사/강과 호수.md",
-    "Ming/패션/옷의 종류.md",
-    "Ming/패션",
-    "Ming/사회,경제/민주주의.md",
-    "Ming/사회,경제/사회 이념 및 사상.md",
-    "Ming/사회,경제/공화주의.md",
     "Ming/역사/지동설 발견자.md",
-    "Ming/철학/철학.md",
-    "Ming/역사/지동설.md",
-    "Ming/IT/언어/스크립트 언어.md",
-    "Ming/역사",
-    "Ming/IT/언어/PHP.md",
-    "Ming/철학",
+    "Ming/과학/상대성 이론.md",
+    "Ming/과학",
+    "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
+    "Ming/사회,경제/사회 이념 및 사상.md",
+    "Ming/사회,경제/민주주의.md",
+    "Ming/사회,경제/공화주의.md",
+    "Ming/IT/언어/자바/자바8.md",
+    "Ming/식물/나무/버즘나무(Platanus orientalis).md",
+    "Ming/IT/인프라",
+    "Pasted image 20240725110034.png",
+    "Ming/IT/인프라/서버 모니터링 순서.md",
+    "Pasted image 20240725110439.png",
+    "Ming/IT/네트워크",
+    "Ming/IT/에자일/방법론/MoSCow 방법론.md",
+    "Ming/IT/에자일/방법론",
+    "Ming/IT/에자일",
+    "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md",
+    "Ming/IT/DB/OLTP vs. OLAP.md",
+    "Ming/IT/DB/RDB를 사용하는 이유.md",
+    "Ming/IT/DB",
+    "Ming/IT/에자일/방법론/RICE 방법론.md",
+    "Ming/독서/사피엔스.md",
+    "Ming/독서",
+    "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
+    "Ming/IT/언어/자바/자바의 컴파일.md",
+    "Ming/IT/언어/자바/자바의 역사.md",
+    "여행지 추천AI 개발/정보 분석 및 설계서.md",
+    "여행지 추천AI 개발/개발 기획서.md",
+    "Ming/IT/언어/C/C언어.md",
+    "무제 파일.canvas",
+    "Ming/음악/인상주의 작곡가.md",
+    "여행지 추천AI 개발",
+    "Ming/음악/클로드 드뷔시.md",
+    "Ming/음악/인상주의 작곡.md",
+    "Ming/패션/체크 무늬.md",
+    "Pasted image 20240326223156.png",
+    "Pasted image 20240326223437.png",
+    "Pasted image 20240314133558.png",
     "desktop.ini",
-    "Ming/IT/Server/Tomcat.md",
-    "Ming/IT/Server/Apache.md",
-    "Ming/IT/언어",
-    "Ming/IT/Server",
-    "Ming/IT",
-    "Ming/사회,경제"
+    "Pasted image 20240228180655.png",
+    "Pasted image 20240311172948.png",
+    "Pasted image 20240314110047.png",
+    "Pasted image 20240326223046.png",
+    "Pasted image 20240326223103.png",
+    "Ming/IT/언어/자바/JVM/JIT 컴파일러.md",
+    "Ming/IT/언어/자바/JVM"
   ]
 }
