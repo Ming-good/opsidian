@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
+                "file": "Ming/과학/상대성 이론.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
+                "file": "Ming/과학/상대성 이론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
+                "file": "Ming/과학/상대성 이론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md"
+                "file": "Ming/과학/상대성 이론.md"
               }
             }
           }
@@ -183,8 +183,10 @@
   },
   "active": "183f6da1d56e418b",
   "lastOpenFiles": [
-    "Ming/IT/언어/자바/자바8.md",
     "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
+    "Ming/과학/상대성 이론.md",
+    "Ming/과학",
+    "Ming/IT/언어/자바/자바8.md",
     "Ming/IT/언어/자바/자바의 역사.md",
     "Ming/IT/언어/자바/JVM/자바 실행 과정.md",
     "Ming/IT/언어/자바/JVM/네이티브 메서드(Native Method).md",
@@ -219,7 +221,6 @@
     "Ming/독서/사피엔스.md",
     "Ming/독서",
     "여행지 추천AI 개발/개발 기획서.md",
-    "Ming/IT/언어/자바/자바의 특징.md",
     "여행지 추천AI 개발",
     "Ming/수학",
     "Pasted image 20240326223437.png",
@@ -229,7 +230,6 @@
     "Pasted image 20240326223046.png",
     "Pasted image 20240314150116.png",
     "Pasted image 20240314133634.png",
-    "Pasted image 20240314133558.png",
-    "Ming/IT/언어/자바/JVM/무제 폴더"
+    "Pasted image 20240314133558.png"
   ]
 }
