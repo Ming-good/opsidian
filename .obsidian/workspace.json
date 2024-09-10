@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/네트워크/SSL 인증서.md",
+                "file": "Ming/IT/네트워크/업무경험/솔루션 회사 인증서 교체.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/IT/네트워크/SSL 인증서.md",
+                "file": "Ming/IT/네트워크/업무경험/솔루션 회사 인증서 교체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/IT/네트워크/SSL 인증서.md",
+                "file": "Ming/IT/네트워크/업무경험/솔루션 회사 인증서 교체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/IT/네트워크/SSL 인증서.md"
+                "file": "Ming/IT/네트워크/업무경험/솔루션 회사 인증서 교체.md"
               }
             }
           }
@@ -181,12 +181,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "183f6da1d56e418b",
+  "active": "8e117530ab50149b",
   "lastOpenFiles": [
+    "Ming/IT/네트워크/업무경험",
+    "Ming/IT/네트워크/인증서 종류.md",
+    "Ming/IT/네트워크/업무경험/솔루션 회사 인증서 교체.md",
+    "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
     "Ming/IT/네트워크/CA(인증 기관).md",
     "Pasted image 20240910151438.png",
     "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md",
-    "Ming/IT/네트워크/SSL 인증서.md",
     "Pasted image 20240910150707.png",
     "Pasted image 20240910142812.png",
     "Pasted image 20240910131929.png",
@@ -219,8 +222,6 @@
     "Ming/IT/언어/자바/JVM/Execution Engin.md",
     "Ming/IT/언어/자바/JVM/JIT 컴파일러.md",
     "Ming/IT/언어/자바/JVM/해석.md",
-    "Ming/IT/언어/자바/JVM/힙.md",
-    "Ming/IT/Server/Apache.md",
     "Ming/IT/에자일/방법론",
     "Ming/IT/에자일",
     "Ming/독서",
