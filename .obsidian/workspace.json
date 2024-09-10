@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/과학/상대성 이론.md",
+                "file": "Ming/IT/네트워크/SSL 인증서.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/과학/상대성 이론.md",
+                "file": "Ming/IT/네트워크/SSL 인증서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/과학/상대성 이론.md",
+                "file": "Ming/IT/네트워크/SSL 인증서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/과학/상대성 이론.md"
+                "file": "Ming/IT/네트워크/SSL 인증서.md"
               }
             }
           }
@@ -183,7 +183,15 @@
   },
   "active": "183f6da1d56e418b",
   "lastOpenFiles": [
+    "Ming/IT/네트워크/CA(인증 기관).md",
+    "Pasted image 20240910151438.png",
+    "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md",
+    "Ming/IT/네트워크/SSL 인증서.md",
+    "Pasted image 20240910150707.png",
+    "Pasted image 20240910142812.png",
+    "Pasted image 20240910131929.png",
     "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
+    "Ming/독서/사피엔스.md",
     "Ming/과학/상대성 이론.md",
     "Ming/과학",
     "Ming/IT/언어/자바/자바8.md",
@@ -198,7 +206,6 @@
     "Ming/패션/체크 무늬.md",
     "Ming/IT/인프라/서버 모니터링 순서.md",
     "Ming/IT/DB/RDB를 사용하는 이유.md",
-    "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md",
     "Ming/IT/네트워크",
     "Ming/IT/무제 파일.md",
     "Ming/IT/DB/OLTP vs. OLAP.md",
@@ -214,22 +221,14 @@
     "Ming/IT/언어/자바/JVM/해석.md",
     "Ming/IT/언어/자바/JVM/힙.md",
     "Ming/IT/Server/Apache.md",
-    "Ming/IT/Server/Tomcat.md",
-    "여행지 추천AI 개발/정보 분석 및 설계서.md",
     "Ming/IT/에자일/방법론",
     "Ming/IT/에자일",
-    "Ming/독서/사피엔스.md",
     "Ming/독서",
-    "여행지 추천AI 개발/개발 기획서.md",
     "여행지 추천AI 개발",
     "Ming/수학",
     "Pasted image 20240326223437.png",
     "Pasted image 20240326223317.png",
     "Pasted image 20240326223156.png",
-    "Pasted image 20240326223103.png",
-    "Pasted image 20240326223046.png",
-    "Pasted image 20240314150116.png",
-    "Pasted image 20240314133634.png",
-    "Pasted image 20240314133558.png"
+    "Pasted image 20240326223103.png"
   ]
 }
