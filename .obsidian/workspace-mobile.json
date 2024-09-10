@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/과학/상대성 이론.md",
+                "file": "Ming/IT/네트워크/SSL 인증서.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ming/과학/상대성 이론.md",
+            "file": "Ming/IT/네트워크/SSL 인증서.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ming/과학/상대성 이론.md",
+            "file": "Ming/IT/네트워크/SSL 인증서.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ming/과학/상대성 이론.md"
+            "file": "Ming/IT/네트워크/SSL 인증서.md"
           }
         }
       }
@@ -133,8 +133,14 @@
   },
   "active": "72ed9f9a01b3b367",
   "lastOpenFiles": [
-    "Ming/역사/지동설 발견자.md",
     "Ming/과학/상대성 이론.md",
+    "Ming/IT/네트워크/SSL 인증서.md",
+    "Pasted image 20240910131929.png",
+    "Pasted image 20240910151438.png",
+    "Pasted image 20240910142812.png",
+    "Ming/IT/네트워크/CA(인증 기관).md",
+    "Pasted image 20240910150707.png",
+    "Ming/역사/지동설 발견자.md",
     "Ming/과학",
     "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
     "Ming/사회,경제/사회 이념 및 사상.md",
@@ -168,17 +174,11 @@
     "여행지 추천AI 개발",
     "Ming/음악/클로드 드뷔시.md",
     "Ming/음악/인상주의 작곡.md",
-    "Ming/패션/체크 무늬.md",
     "Pasted image 20240326223156.png",
     "Pasted image 20240326223437.png",
     "Pasted image 20240314133558.png",
     "desktop.ini",
     "Pasted image 20240228180655.png",
-    "Pasted image 20240311172948.png",
-    "Pasted image 20240314110047.png",
-    "Pasted image 20240326223046.png",
-    "Pasted image 20240326223103.png",
-    "Ming/IT/언어/자바/JVM/JIT 컴파일러.md",
     "Ming/IT/언어/자바/JVM"
   ]
 }
