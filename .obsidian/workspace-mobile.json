@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/네트워크/SSL 인증서.md",
+                "file": "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ming/IT/네트워크/SSL 인증서.md",
+            "file": "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ming/IT/네트워크/SSL 인증서.md",
+            "file": "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ming/IT/네트워크/SSL 인증서.md"
+            "file": "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md"
           }
         }
       }
@@ -133,12 +133,17 @@
   },
   "active": "72ed9f9a01b3b367",
   "lastOpenFiles": [
-    "Ming/과학/상대성 이론.md",
+    "Ming/IT/네트워크/CA(인증 기관).md",
+    "Ming/IT/네트워크/인증서 종류.md",
+    "Ming/IT/네트워크/업무경험/솔루션 회사 인증서 교체.md",
+    "Ming/역사/강과 호수.md",
     "Ming/IT/네트워크/SSL 인증서.md",
+    "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
+    "Ming/IT/네트워크/업무경험",
+    "Ming/과학/상대성 이론.md",
     "Pasted image 20240910131929.png",
     "Pasted image 20240910151438.png",
     "Pasted image 20240910142812.png",
-    "Ming/IT/네트워크/CA(인증 기관).md",
     "Pasted image 20240910150707.png",
     "Ming/역사/지동설 발견자.md",
     "Ming/과학",
@@ -168,17 +173,12 @@
     "Ming/IT/언어/자바/자바의 역사.md",
     "여행지 추천AI 개발/정보 분석 및 설계서.md",
     "여행지 추천AI 개발/개발 기획서.md",
-    "Ming/IT/언어/C/C언어.md",
     "무제 파일.canvas",
-    "Ming/음악/인상주의 작곡가.md",
     "여행지 추천AI 개발",
-    "Ming/음악/클로드 드뷔시.md",
-    "Ming/음악/인상주의 작곡.md",
     "Pasted image 20240326223156.png",
     "Pasted image 20240326223437.png",
     "Pasted image 20240314133558.png",
     "desktop.ini",
-    "Pasted image 20240228180655.png",
-    "Ming/IT/언어/자바/JVM"
+    "Pasted image 20240228180655.png"
   ]
 }
