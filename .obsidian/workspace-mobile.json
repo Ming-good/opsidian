@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
+                "file": "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
+            "file": "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
+            "file": "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md"
+            "file": "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md"
           }
         }
       }
@@ -133,12 +133,15 @@
   },
   "active": "72ed9f9a01b3b367",
   "lastOpenFiles": [
+    "Ming/독서/김교수의 추천 도서 100권.md",
+    "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
+    "Ming/독서/사피엔스.md",
+    "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
     "Ming/IT/네트워크/CA(인증 기관).md",
     "Ming/IT/네트워크/인증서 종류.md",
     "Ming/IT/네트워크/업무경험/솔루션 회사 인증서 교체.md",
     "Ming/역사/강과 호수.md",
     "Ming/IT/네트워크/SSL 인증서.md",
-    "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
     "Ming/IT/네트워크/업무경험",
     "Ming/과학/상대성 이론.md",
     "Pasted image 20240910131929.png",
@@ -147,7 +150,6 @@
     "Pasted image 20240910150707.png",
     "Ming/역사/지동설 발견자.md",
     "Ming/과학",
-    "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
     "Ming/사회,경제/사회 이념 및 사상.md",
     "Ming/사회,경제/민주주의.md",
     "Ming/사회,경제/공화주의.md",
@@ -166,13 +168,11 @@
     "Ming/IT/DB/RDB를 사용하는 이유.md",
     "Ming/IT/DB",
     "Ming/IT/에자일/방법론/RICE 방법론.md",
-    "Ming/독서/사피엔스.md",
     "Ming/독서",
     "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
     "Ming/IT/언어/자바/자바의 컴파일.md",
     "Ming/IT/언어/자바/자바의 역사.md",
     "여행지 추천AI 개발/정보 분석 및 설계서.md",
-    "여행지 추천AI 개발/개발 기획서.md",
     "무제 파일.canvas",
     "여행지 추천AI 개발",
     "Pasted image 20240326223156.png",
