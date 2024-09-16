@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
+                "file": "Ming/독서/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
+            "file": "Ming/독서/무제 파일.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
+            "file": "Ming/독서/무제 파일.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md"
+            "file": "Ming/독서/무제 파일.md"
           }
         }
       }
@@ -133,8 +133,9 @@
   },
   "active": "72ed9f9a01b3b367",
   "lastOpenFiles": [
-    "Ming/독서/김교수의 추천 도서 100권.md",
     "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
+    "Ming/독서/무제 파일.md",
+    "Ming/독서/김교수의 추천 도서 100권.md",
     "Ming/독서/사피엔스.md",
     "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
     "Ming/IT/네트워크/CA(인증 기관).md",
@@ -172,7 +173,6 @@
     "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
     "Ming/IT/언어/자바/자바의 컴파일.md",
     "Ming/IT/언어/자바/자바의 역사.md",
-    "여행지 추천AI 개발/정보 분석 및 설계서.md",
     "무제 파일.canvas",
     "여행지 추천AI 개발",
     "Pasted image 20240326223156.png",
