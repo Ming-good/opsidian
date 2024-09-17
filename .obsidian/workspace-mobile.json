@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "바보들의 제기 그릇 세척.md",
+                "file": "이야기/바보들의 제기 그릇 세척.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "바보들의 제기 그릇 세척.md",
+            "file": "이야기/바보들의 제기 그릇 세척.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "바보들의 제기 그릇 세척.md",
+            "file": "이야기/바보들의 제기 그릇 세척.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "바보들의 제기 그릇 세척.md"
+            "file": "이야기/바보들의 제기 그릇 세척.md"
           }
         }
       }
@@ -144,10 +144,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fca52de0212e1b61",
+  "active": "c1c047dc14384f23",
   "lastOpenFiles": [
+    "이야기",
     "Ming/독서/방구석 미술관.md",
-    "바보들의 제기 그릇 세척.md",
+    "이야기/바보들의 제기 그릇 세척.md",
     "재밌는 이야기",
     "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
     "Ming/독서/김교수의 추천 도서 100권.md",
@@ -186,7 +187,6 @@
     "Ming/IT/에자일/방법론/RICE 방법론.md",
     "Ming/독서",
     "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
-    "Ming/IT/언어/자바/자바의 컴파일.md",
     "무제 파일.canvas",
     "여행지 추천AI 개발",
     "Pasted image 20240326223156.png",
