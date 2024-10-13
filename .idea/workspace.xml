@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a2c5707-44fd-4652-bef8-cc4a306b9dab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ming/IT/인프라/서버 모니터링 순서.md" beforeDir="false" afterPath="$PROJECT_DIR$/Ming/IT/인프라/서버 모니터링 순서.md" afterDir="false" />
-    </list>
+    <list default="true" id="1a2c5707-44fd-4652-bef8-cc4a306b9dab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +67,7 @@
       <workItem from="1709079026527" duration="78000" />
       <workItem from="1712279259651" duration="616000" />
       <workItem from="1723075873848" duration="50000" />
+      <workItem from="1726385672021" duration="637000" />
     </task>
     <servers />
   </component>

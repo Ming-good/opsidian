@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/독서/김교수의 추천 도서 100권.md",
+                "file": "Ming/IT/아키텍쳐/마이크로 아키텍쳐의 장단점.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/독서/김교수의 추천 도서 100권.md",
+                "file": "Ming/IT/아키텍쳐/마이크로 아키텍쳐의 장단점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/독서/김교수의 추천 도서 100권.md",
+                "file": "Ming/IT/아키텍쳐/마이크로 아키텍쳐의 장단점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/독서/김교수의 추천 도서 100권.md"
+                "file": "Ming/IT/아키텍쳐/마이크로 아키텍쳐의 장단점.md"
               }
             }
           }
@@ -192,10 +192,15 @@
   },
   "active": "d5d14a121005d659",
   "lastOpenFiles": [
+    "Ming/독서/김교수의 추천 도서 100권.md",
+    "Ming/IT/아키텍쳐/마이크로 아키텍쳐의 장단점.md",
+    "이야기/바보들의 제기 그릇 세척.md",
+    "이야기",
+    "Ming/독서/방구석 미술관.md",
+    "Ming/IT/아키텍쳐",
     "Pasted image 20240910151438.png",
     "Pasted image 20240228180655.png",
     "Pasted image 20240915163627.png",
-    "Ming/독서/김교수의 추천 도서 100권.md",
     "Ming/독서/사피엔스.md",
     "Ming/IT/언어/자바/JVM/Loading.md",
     "Ming/독서/무제 폴더",
@@ -227,17 +232,12 @@
     "Ming/IT/언어/자바/JVM/해석.md",
     "Ming/IT/언어/자바/JVM/Execution Engin.md",
     "Ming/IT/언어/자바/JVM/JIT 컴파일러.md",
-    "Ming/IT/언어/C/C언어.md",
-    "Ming/IT/언어/컴파일 언어.md",
     "Ming/IT/네트워크",
     "Ming/독서",
     "Ming/IT/에자일/방법론",
     "Ming/IT/에자일",
-    "Ming/IT/DB",
-    "여행지 추천AI 개발",
     "Pasted image 20240326223437.png",
     "Pasted image 20240326223317.png",
-    "Pasted image 20240326223156.png",
     "무제 파일.canvas"
   ]
 }
