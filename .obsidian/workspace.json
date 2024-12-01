@@ -8,35 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8893596e02df6cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ming/IT/언어/자바/JVM/자바 실행 과정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1aff824102638290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ming/IT/에자일/방법론/MoSCow 방법론.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f5f299fa619d0744",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           },
           {
@@ -45,10 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/아키텍쳐/마이크로 아키텍쳐의 장단점.md",
+                "file": "Ming/독서/경제학 콘서트.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "경제학 콘서트"
+            }
+          },
+          {
+            "id": "e815f71b152735b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ming/독서/빅터 프랭클의 죽음의 수용소에서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "빅터 프랭클의 죽음의 수용소에서"
             }
           },
           {
@@ -60,11 +54,13 @@
                 "file": "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "지적 대화를 위한 넓고 얕은 지식1"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +80,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -99,7 +97,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -107,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/IT/아키텍쳐/마이크로 아키텍쳐의 장단점.md",
+                "file": "Ming/독서/빅터 프랭클의 죽음의 수용소에서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "빅터 프랭클의 죽음의 수용소에서의 백링크"
             }
           },
           {
@@ -147,10 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/IT/아키텍쳐/마이크로 아키텍쳐의 장단점.md",
+                "file": "Ming/독서/빅터 프랭클의 죽음의 수용소에서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "빅터 프랭클의 죽음의 수용소에서의 나가는 링크"
             }
           },
           {
@@ -161,7 +167,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -170,8 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/IT/아키텍쳐/마이크로 아키텍쳐의 장단점.md"
-              }
+                "file": "Ming/독서/빅터 프랭클의 죽음의 수용소에서.md"
+              },
+              "icon": "lucide-list",
+              "title": "빅터 프랭클의 죽음의 수용소에서 개요"
             }
           }
         ]
@@ -190,10 +200,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d5d14a121005d659",
+  "active": "e815f71b152735b9",
   "lastOpenFiles": [
-    "Ming/독서/김교수의 추천 도서 100권.md",
+    "Ming/독서/빅터 프랭클의 죽음의 수용소에서.md",
     "Ming/IT/아키텍쳐/마이크로 아키텍쳐의 장단점.md",
+    "Ming/독서/경제학 콘서트.md",
+    "Ming/독서/김교수의 추천 도서 100권.md",
     "이야기/바보들의 제기 그릇 세척.md",
     "이야기",
     "Ming/독서/방구석 미술관.md",
@@ -230,8 +242,6 @@
     "Ming/IT/언어/자바/JVM/힙.md",
     "Ming/IT/언어/자바/JVM/네이티브 메서드(Native Method).md",
     "Ming/IT/언어/자바/JVM/해석.md",
-    "Ming/IT/언어/자바/JVM/Execution Engin.md",
-    "Ming/IT/언어/자바/JVM/JIT 컴파일러.md",
     "Ming/IT/네트워크",
     "Ming/독서",
     "Ming/IT/에자일/방법론",
