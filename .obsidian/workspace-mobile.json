@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/독서/빅터 프랭클의 죽음의 수용소에서.md",
+                "file": "Ming/IT/도커/마이크로 서비스 아키텍쳐 책 도커 사용.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "빅터 프랭클의 죽음의 수용소에서"
+              "title": "마이크로 서비스 아키텍쳐 책 도커 사용"
             }
           }
         ],
@@ -164,6 +164,11 @@
   },
   "active": "fca52de0212e1b61",
   "lastOpenFiles": [
+    "Ming/독서/빅터 프랭클의 죽음의 수용소에서.md",
+    "Ming/IT/도커/마이크로 서비스 아키텍쳐 책 도커 사용.md",
+    "Ming/IT/도커",
+    "Pasted image 20241201192935.png",
+    "Pasted image 20241201192914.png",
     "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
     "Ming/독서/김교수의 추천 도서 100권.md",
     "Ming/IT/아키텍쳐",
@@ -203,12 +208,8 @@
     "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md",
     "Ming/IT/DB/OLTP vs. OLAP.md",
     "Ming/IT/DB/RDB를 사용하는 이유.md",
-    "Ming/IT/DB",
-    "Ming/IT/에자일/방법론/RICE 방법론.md",
     "무제 파일.canvas",
     "Pasted image 20240326223156.png",
-    "Pasted image 20240326223437.png",
-    "Pasted image 20240314133558.png",
-    "Pasted image 20240228180655.png"
+    "Pasted image 20240326223437.png"
   ]
 }
