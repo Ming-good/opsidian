@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/운영체제/동시성.md",
+                "file": "이야기/나의 꿈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "동시성"
+              "title": "나의 꿈"
             }
           }
         ],
@@ -178,6 +178,7 @@
   },
   "active": "5b1d1c99f12fe169",
   "lastOpenFiles": [
+    "Ming/IT/운영체제/동시성.md",
     "Ming/IT/운영체제/교착상태.md",
     "이야기/나의 꿈.md",
     "hs_err_pid33256.log",
@@ -187,7 +188,6 @@
     "hs_err_pid35740.log",
     "hs_err_pid6540.log",
     "hs_err_pid30032.log",
-    "Ming/IT/운영체제/동시성.md",
     "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
     "Ming/IT/운영체제",
     "Ming/IT/도커/마이크로 서비스 아키텍쳐 책 도커 사용.md",
