@@ -168,6 +168,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -178,10 +180,10 @@
   },
   "active": "5b1d1c99f12fe169",
   "lastOpenFiles": [
-    "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
-    "면접 준비/네이버 제트 준비.md",
-    "면접 준비",
     "면접 준비/랠릿프로필-이민규.pdf",
+    "면접 준비/네이버 제트 준비.md",
+    "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
+    "면접 준비",
     "Excalidraw/Drawing 2025-01-20 21.53.12.excalidraw.md",
     "Excalidraw",
     "Ming/독서/경제학 콘서트.md",
@@ -219,7 +221,6 @@
     "Ming/역사/지동설 발견자.md",
     "Ming/사회,경제/사회 이념 및 사상.md",
     "Ming/사회,경제/민주주의.md",
-    "Ming/사회,경제/공화주의.md",
     "Pasted image 20240725110034.png",
     "Pasted image 20240725110439.png",
     "무제 파일.canvas",
