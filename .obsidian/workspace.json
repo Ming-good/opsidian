@@ -4,24 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "f2773513012892a7",
+        "id": "2be8a323565b7471",
         "type": "tabs",
         "children": [
           {
-            "id": "7996f00b1c067870",
+            "id": "f5f299fa619d0744",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "d5d14a121005d659",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "이야기/나의 꿈.md",
+                "file": "Ming/독서/경제학 콘서트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "나의 꿈"
+              "title": "경제학 콘서트"
+            }
+          },
+          {
+            "id": "e815f71b152735b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ming/독서/빅터 프랭클의 죽음의 수용소에서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "빅터 프랭클의 죽음의 수용소에서"
+            }
+          },
+          {
+            "id": "de2f707b3f6386e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ming/IT/도커/마이크로 서비스 아키텍쳐 책 도커 사용.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "마이크로 서비스 아키텍쳐 책 도커 사용"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -40,7 +79,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -93,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md",
+                "file": "Ming/IT/도커/마이크로 서비스 아키텍쳐 책 도커 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "동기,비동기,블로킹,논블로킹의 백링크"
+              "title": "마이크로 서비스 아키텍쳐 책 도커 사용의 백링크"
             }
           },
           {
@@ -112,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md",
+                "file": "Ming/독서/빅터 프랭클의 죽음의 수용소에서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "동기,비동기,블로킹,논블로킹의 나가는 링크"
+              "title": "빅터 프랭클의 죽음의 수용소에서의 나가는 링크"
             }
           },
           {
@@ -139,18 +178,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md"
+                "file": "Ming/독서/빅터 프랭클의 죽음의 수용소에서.md"
               },
               "icon": "lucide-list",
-              "title": "동기,비동기,블로킹,논블로킹 개요"
+              "title": "빅터 프랭클의 죽음의 수용소에서 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,55 +200,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7996f00b1c067870",
+  "active": "de2f707b3f6386e1",
   "lastOpenFiles": [
-    "이야기/바보들의 제기 그릇 세척.md",
     "이야기/나의 꿈.md",
-    "hs_err_pid35740.log",
-    "hs_err_pid30032.log",
-    "hs_err_pid5896.log",
+    "Ming/IT/도커/마이크로 서비스 아키텍쳐 책 도커 사용.md",
+    "여행지 추천AI 개발/정보 분석 및 설계서.md",
     "hs_err_pid6540.log",
-    "hs_err_pid25792.log",
+    "hs_err_pid5896.log",
+    "hs_err_pid35740.log",
     "hs_err_pid33256.log",
+    "hs_err_pid30032.log",
+    "hs_err_pid25792.log",
     "hs_err_pid18552.log",
-    "Ming/IT/운영체제/교착상태.md",
     "Ming/IT/운영체제/동시성.md",
-    "Ming/독서/사피엔스.md",
+    "Ming/IT/운영체제/교착상태.md",
     "Ming/IT/운영체제",
-    "이야기",
+    "Ming/IT/도커",
     "Pasted image 20241201192935.png",
     "Pasted image 20241201192914.png",
     "Ming/독서/빅터 프랭클의 죽음의 수용소에서.md",
-    "Ming/독서/방구석 미술관.md",
-    "Ming/독서/김교수의 추천 도서 100권.md",
-    "Ming/독서/경제학 콘서트.md",
     "Ming/IT/아키텍쳐/마이크로 아키텍쳐의 장단점.md",
-    "Ming/IT/아키텍쳐",
-    "Ming/IT/도커/마이크로 서비스 아키텍쳐 책 도커 사용.md",
-    "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md",
+    "Ming/독서/경제학 콘서트.md",
+    "Ming/독서/김교수의 추천 도서 100권.md",
+    "이야기/바보들의 제기 그릇 세척.md",
+    "이야기",
+    "Ming/독서/방구석 미술관.md",
+    "Pasted image 20240910151438.png",
+    "Pasted image 20240228180655.png",
+    "Pasted image 20240915163627.png",
+    "Ming/독서/사피엔스.md",
+    "Ming/IT/언어/자바/JVM/Loading.md",
+    "Pasted image 20240910150707.png",
+    "Pasted image 20240910142812.png",
+    "Pasted image 20240910131929.png",
+    "Ming/과학/상대성 이론.md",
     "Ming/IT/네트워크/인증서 종류.md",
     "Ming/IT/네트워크/업무경험/솔루션 회사 인증서 교체.md",
     "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
     "Ming/IT/네트워크/CA(인증 기관).md",
-    "Pasted image 20240910151438.png",
-    "Pasted image 20240910150707.png",
-    "Pasted image 20240910142812.png",
-    "Pasted image 20240910131929.png",
-    "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
-    "Ming/과학/상대성 이론.md",
-    "Ming/IT/언어/자바/자바8.md",
-    "Ming/IT/언어/자바/자바의 역사.md",
-    "Ming/IT/언어/자바/JVM/자바 실행 과정.md",
-    "Ming/IT/언어/자바/JVM/네이티브 메서드(Native Method).md",
-    "Ming/IT/언어/자바/JVM/메서드 영역.md",
-    "Ming/IT/언어/자바/JVM/JVM의 3가지 주요 구성요소.md",
+    "Ming/IT/언어/자바/JVM/Thread.md",
     "Ming/IT/언어/자바/자바의 컴파일.md",
+    "Ming/IT/언어/자바/자바의 특징.md",
+    "Ming/IT/언어/자바/자바의 역사.md",
+    "Ming/IT/언어/자바/자바8.md",
+    "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
+    "Ming/IT/언어/자바/JVM/메서드 영역.md",
     "Pasted image 20240725110439.png",
     "Pasted image 20240725110034.png",
-    "Ming/패션/체크 무늬.md",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas",
-    "Pasted image 20240326223437.png",
-    "Pasted image 20240326223317.png"
+    "Ming/IT/인프라/서버 모니터링 순서.md",
+    "무제 파일.canvas"
   ]
 }
