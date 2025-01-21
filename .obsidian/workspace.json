@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/스프링/스프링 웹플럭스/스프링 웹플럭스 - 개요.md",
+                "file": "Ming/IT/용어정리/논블로킹 백프레셔.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "스프링 웹플럭스 - 개요"
+              "title": "논블로킹 백프레셔"
             }
           }
         ]
@@ -162,9 +162,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7996f00b1c067870",
+  "active": "8e117530ab50149b",
   "lastOpenFiles": [
     "Ming/IT/스프링/스프링 웹플럭스/스프링 웹플럭스 - 개요.md",
+    "Ming/IT/용어정리/논블로킹 백프레셔.md",
     "Ming/IT/용어정리/함수형 API.md",
     "Ming/IT/용어정리/상호 운용성.md",
     "Ming/IT/용어정리",
@@ -206,7 +207,6 @@
     "Ming/과학/상대성 이론.md",
     "Ming/IT/언어/자바/자바8.md",
     "Ming/IT/언어/자바/자바의 역사.md",
-    "Ming/IT/언어/자바/JVM/자바 실행 과정.md",
     "Pasted image 20240725110439.png",
     "Pasted image 20240725110034.png",
     "무제 파일 1.canvas",
