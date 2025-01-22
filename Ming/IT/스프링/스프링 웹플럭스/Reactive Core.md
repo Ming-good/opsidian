@@ -52,18 +52,6 @@ HttpHandler handler = ...;
 ReactorHttpHandlerAdapter adapter = new ReactorHttpHandlerAdapter(handler);
 HttpServer.create().host(host).port(port).handle(adapter).bindNow();
 ```
-
-#### Undertow
-```
-HttpHandler handler = ...;
-UndertowHttpHandlerAdapter adapter = new UndertowHttpHandlerAdapter(handler);
-Undertow server = Undertow.builder()
-        .addHttpListener(port, host)
-        .setHandler(adapter)
-        .build();
-server.start();
-
-```
 #### Tomcat
 ```
 HttpHandler handler = ...;
@@ -79,23 +67,6 @@ server.setPort(port);
 server.start();
 ```
 
-#### Jetty
-```
-HttpHandler handler = ...;
-Servlet servlet = new JettyHttpHandlerAdapter(handler);
-
-Server server = new Server();
-ServletContextHandler contextHandler = new ServletContextHandler(server, "");
-contextHandler.addServlet(new ServletHolder(servlet), "/");
-contextHandler.start();
-
-ServerConnector connector = new ServerConnector(server);
-connector.setHost(host);
-connector.setPort(port);
-server.addConnector(connector);
-server.start();
-
-```
 #### Servlet 컨테이너
 
 WAR 파일로 Servlet 컨테이너에 배포하려면 **AbstractReactiveWebInitializer**를 확장하고 WAR 파일에 포함합니다. 이 클래스는 HttpHandler를 ServletHttpHandlerAdapter로 감싸고 이를 Servlet으로 등록합니다.
