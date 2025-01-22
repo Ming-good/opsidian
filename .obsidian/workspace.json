@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서/스프링 웹플럭스 - 개요.md",
+                "file": "Ming/IT/용어정리/Emit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "스프링 웹플럭스 - 개요"
+              "title": "Emit"
             }
           }
         ]
@@ -144,8 +144,29 @@
               "icon": "lucide-list",
               "title": "동기,비동기,블로킹,논블로킹 개요"
             }
+          },
+          {
+            "id": "6b1279c829588b6c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "4f6a9e87d41b142b",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -159,17 +180,21 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7996f00b1c067870",
   "lastOpenFiles": [
-    "Ming/IT/스프링/리액티브/리액티브란.md",
+    "Ming/IT/용어정리/Demand.md",
+    "Ming/IT/용어정리/Emit.md",
+    "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md",
     "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서/스프링 웹플럭스 - 개요.md",
-    "Ming/IT/스프링/리액티브",
+    "Ming/IT/스프링/리액티브/리액티브란.md",
     "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서/함수형 엔드포인트.md",
-    "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서/Reactive Core.md",
     "INTERVIEW/네이버 제트 준비.md",
+    "Ming/IT/스프링/리액티브",
+    "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서/Reactive Core.md",
     "Ming/IT/용어정리/논블로킹 백프레셔.md",
     "Ming/IT/용어정리/함수형 API.md",
     "Ming/IT/용어정리/상호 운용성.md",
@@ -197,16 +222,13 @@
     "Ming/독서/경제학 콘서트.md",
     "Ming/IT/아키텍쳐/마이크로 아키텍쳐의 장단점.md",
     "Ming/IT/도커/마이크로 서비스 아키텍쳐 책 도커 사용.md",
-    "Ming/IT/네트워크/동기,비동기,블로킹,논블로킹.md",
     "Ming/IT/네트워크/인증서 종류.md",
     "Ming/IT/네트워크/업무경험/솔루션 회사 인증서 교체.md",
     "Ming/IT/네트워크/SSL 인증서 발급 및 인증 과정.md",
-    "Ming/IT/네트워크/CA(인증 기관).md",
     "Pasted image 20240910151438.png",
     "Pasted image 20240910150707.png",
     "Pasted image 20240910142812.png",
     "Pasted image 20240910131929.png",
-    "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
     "Pasted image 20240725110439.png",
     "Pasted image 20240725110034.png",
     "무제 파일 1.canvas",

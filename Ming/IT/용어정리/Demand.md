@@ -1,0 +1,1 @@
+Publisher가 아직 Subscriber에게 전달하지 않은 Subscriber가 요청한 데이터
