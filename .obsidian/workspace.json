@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTERVIEW/네이버 제트 준비.md",
+                "file": "Ming/IT/스프링/리액티브/리액티브란.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "네이버 제트 준비"
+              "title": "리액티브란"
             }
           }
         ]
@@ -164,9 +164,19 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "a36b43a9edd29557",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -180,12 +190,13 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0d43ff22364a88ff",
   "lastOpenFiles": [
+    "Pasted image 20250130174510.png",
+    "INTERVIEW/네이버 제트 준비.md",
     "INTERVIEW/랠릿프로필-이민규.pdf",
     "Ming/IT/용어정리/Emit.md",
     "Ming/IT/용어정리/Demand.md",
@@ -195,7 +206,6 @@
     "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서",
     "Ming/IT/스프링/리액티브/리액티브란.md",
     "Ming/IT/스프링/리액티브",
-    "INTERVIEW/네이버 제트 준비.md",
     "INTERVIEW",
     "면접 준비/랠릿프로필-이민규.pdf",
     "면접 준비/네이버 제트 준비.md",
