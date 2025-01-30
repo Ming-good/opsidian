@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "동기",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7817297112877636,
+  "scale": 1.0959716859088935,
   "close": false
 }
