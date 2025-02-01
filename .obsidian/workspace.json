@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/스프링/리액티브/동기,비동기,블로킹,논블로킹.md",
+                "file": "Ming/IT/스프링/리액티브/리액티브란.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "동기,비동기,블로킹,논블로킹"
+              "title": "리액티브란"
             }
           }
         ]
@@ -195,10 +195,10 @@
   },
   "active": "0d43ff22364a88ff",
   "lastOpenFiles": [
+    "Ming/IT/스프링/리액티브/동기,비동기,블로킹,논블로킹.md",
     "Ming/IT/스프링/리액티브/리액티브란.md",
     "Ming/IT/용어정리/컨텍스트 스위칭.md",
     "Ming/IT/용어정리/논블로킹 백프레셔.md",
-    "Ming/IT/스프링/리액티브/동기,비동기,블로킹,논블로킹.md",
     "Pasted image 20250130175740.png",
     "Pasted image 20250130174510.png",
     "INTERVIEW/네이버 제트 준비.md",
