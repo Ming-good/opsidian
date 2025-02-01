@@ -25,32 +25,14 @@
             "id": "fca52de0212e1b61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ming/IT/운영체제/동시성.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "동시성"
-            }
-          },
-          {
-            "id": "5b1d1c99f12fe169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "면접 준비/네이버 제트 준비.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "네이버 제트 준비"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +47,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "파일 탐색기"
@@ -162,31 +145,54 @@
           "icon": "lucide-list",
           "title": "개요"
         }
+      },
+      {
+        "id": "6db85d8185f36185",
+        "type": "leaf",
+        "state": {
+          "type": "graph-analysis",
+          "state": {},
+          "icon": "GA-ICON",
+          "title": "Graph Analysis"
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5b1d1c99f12fe169",
+  "active": "fca52de0212e1b61",
   "lastOpenFiles": [
+    "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
+    "Ming/IT/운영체제/동시성.md",
+    "면접 준비/네이버 제트 준비.md",
+    "Ming/IT/용어정리/Emit.md",
+    "Ming/IT/용어정리/Demand.md",
+    "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서/스프링 웹플럭스 - 개요.md",
+    "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서/함수형 엔드포인트.md",
+    "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서",
+    "Ming/IT/스프링/리액티브/리액티브란.md",
+    "Ming/IT/스프링/리액티브",
+    "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서/Reactive Core.md",
+    "INTERVIEW/랠릿프로필-이민규.pdf",
+    "INTERVIEW/네이버 제트 준비.md",
+    "INTERVIEW",
     "Ming/IT/스프링/스프링 웹플럭스/스프링 웹플럭스 - 개요.md",
     "Ming/IT/스프링/스프링 웹플럭스/함수형 엔드포인트.md",
     "Ming/IT/용어정리/함수형 API.md",
     "Ming/IT/용어정리/논블로킹 백프레셔.md",
     "Ming/IT/용어정리/상호 운용성.md",
     "Ming/IT/용어정리",
-    "면접 준비/네이버 제트 준비.md",
     "Pasted image 20250121163258.png",
     "Ming/IT/스프링/스프링 웹플럭스",
     "Ming/IT/스프링",
@@ -200,25 +206,12 @@
     "Ming/철학/철학.md",
     "Ming/독서/김교수의 추천 도서 100권.md",
     "Ming/독서/방구석 미술관.md",
-    "Ming/독서/지적 대화를 위한 넓고 얕은 지식1.md",
     "이야기/나의 꿈.md",
-    "Ming/IT/운영체제/동시성.md",
     "Ming/IT/운영체제/교착상태.md",
-    "hs_err_pid33256.log",
-    "hs_err_pid18552.log",
-    "hs_err_pid25792.log",
-    "hs_err_pid5896.log",
     "Ming/IT/도커/마이크로 서비스 아키텍쳐 책 도커 사용.md",
     "Ming/독서/빅터 프랭클의 죽음의 수용소에서.md",
     "Pasted image 20241201192935.png",
     "Pasted image 20241201192914.png",
-    "Ming/IT/아키텍쳐/마이크로 아키텍쳐의 장단점.md",
-    "이야기/바보들의 제기 그릇 세척.md",
-    "Ming/독서/사피엔스.md",
-    "Ming/IT/네트워크/CA(인증 기관).md",
-    "Ming/IT/네트워크/인증서 종류.md",
-    "Ming/IT/네트워크/업무경험/솔루션 회사 인증서 교체.md",
-    "Ming/역사/강과 호수.md",
     "Pasted image 20240910131929.png",
     "Pasted image 20240910151438.png",
     "Pasted image 20240910142812.png",
