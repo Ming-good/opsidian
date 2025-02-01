@@ -184,6 +184,16 @@
         "id": "23dac1a58892b24e",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "새 탭"
+        }
+      },
+      {
+        "id": "86ab5e1dccd1c2e6",
+        "type": "leaf",
+        "state": {
           "type": "graph-analysis",
           "state": {},
           "icon": "GA-ICON",
@@ -205,8 +215,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "23dac1a58892b24e",
+  "active": "86ab5e1dccd1c2e6",
   "lastOpenFiles": [
+    "Ming/IT/스프링/리액티브/리액티브란.md",
     "Pasted image 20250130174510.png",
     "Pasted image 20250130175740.png",
     "Ming/IT/용어정리/함수 디스크립터.md",
@@ -221,7 +232,6 @@
     "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서/스프링 웹플럭스 - 개요.md",
     "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서/함수형 엔드포인트.md",
     "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서",
-    "Ming/IT/스프링/리액티브/리액티브란.md",
     "Ming/IT/스프링/리액티브",
     "Ming/IT/스프링/스프링 웹플럭스-스프링 공식 문서/Reactive Core.md",
     "INTERVIEW/랠릿프로필-이민규.pdf",
@@ -252,7 +262,6 @@
     "Pasted image 20240910151438.png",
     "Pasted image 20240910142812.png",
     "Pasted image 20240910150707.png",
-    "Pasted image 20240725110034.png",
     "무제 파일.canvas"
   ]
 }
