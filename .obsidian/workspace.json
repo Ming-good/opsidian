@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ming/IT/용어정리/함수 디스크립터.md",
+                "file": "Ming/IT/스프링/리액티브/동기,비동기,블로킹,논블로킹.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "함수 디스크립터"
+              "title": "동기,비동기,블로킹,논블로킹"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -184,10 +185,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false
@@ -196,8 +198,8 @@
   "active": "0d43ff22364a88ff",
   "lastOpenFiles": [
     "Ming/IT/스프링/리액티브/리액티브란.md",
-    "Ming/IT/스프링/리액티브/동기,비동기,블로킹,논블로킹.md",
     "Ming/IT/용어정리/함수 디스크립터.md",
+    "Ming/IT/스프링/리액티브/동기,비동기,블로킹,논블로킹.md",
     "Pasted image 20250202000641.png",
     "Ming/IT/용어정리/컨텍스트 스위칭.md",
     "Ming/IT/용어정리/논블로킹 백프레셔.md",
