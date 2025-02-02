@@ -174,6 +174,16 @@
         "id": "89ae466dbc9a347d",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "새 탭"
+        }
+      },
+      {
+        "id": "23dac1a58892b24e",
+        "type": "leaf",
+        "state": {
           "type": "graph-analysis",
           "state": {},
           "icon": "GA-ICON",
@@ -195,7 +205,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fca52de0212e1b61",
+  "active": "23dac1a58892b24e",
   "lastOpenFiles": [
     "Pasted image 20250130174510.png",
     "Pasted image 20250130175740.png",
