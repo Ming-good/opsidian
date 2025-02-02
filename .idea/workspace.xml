@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a2c5707-44fd-4652-bef8-cc4a306b9dab" name="Changes" comment="" />
+    <list default="true" id="1a2c5707-44fd-4652-bef8-cc4a306b9dab" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/작업/obsidian&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/S/Desktop/개발/opsidian&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,6 +71,8 @@
       <workItem from="1723075873848" duration="50000" />
       <workItem from="1726385672021" duration="637000" />
       <workItem from="1737378044118" duration="29000" />
+      <workItem from="1738484175402" duration="31000" />
+      <workItem from="1738484215673" duration="73000" />
     </task>
     <servers />
   </component>
